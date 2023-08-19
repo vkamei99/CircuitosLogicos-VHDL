@@ -10,9 +10,8 @@ end eq1;
 architecture sop_arch of eq1 is
    signal p0, p1 : std_logic;
 begin
-   -- sum of two product terms
+   -- soma dos produtos
    eq <= p0 or p1;
-   -- product terms
    p0 <= (not i0) and (not i1);
    p1 <= i0 and i1;
 end sop_arch;
