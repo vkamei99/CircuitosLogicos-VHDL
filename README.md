@@ -1,2 +1,2 @@
 # CircuitosLogicos-VHDL
-Códigos VHDL que desenvolvi durante meu a disciplina de Circuitos Lógicos
+Códigos VHDL que desenvolvi durante a disciplina de Circuitos Lógicos
